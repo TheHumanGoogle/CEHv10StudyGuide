@@ -23,7 +23,7 @@
 - TFTP passes everything in clear text
 - IMAP, POP3, NNTP and HTTP all  send over clear text data
 - TCP shows sequence numbers (usable in session hijacking)
-- TCP and UCP show open ports
+- TCP and UDP show open ports
 - IP shows source and destination addresses
 
 ### <u>ARP</u>
